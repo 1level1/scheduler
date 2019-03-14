@@ -7,7 +7,7 @@ The complementary code for the FE is not yet uploaded to GIT. WIP.
 
 ## Highlevel overview
 
-This is a basic skeleton of the project, implementing the required REST API`s for:
+This is a skeleton of the project, implementing the required REST API`s for:
 
 1) Creating new teams and populating it with workers
 2) Creating roles for teams
