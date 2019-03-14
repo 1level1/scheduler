@@ -1,9 +1,23 @@
+## The best scheduler
+
 A BE code for implementing scheduler to manage shifts at work, e.g. resturants, hospitals etc...
 The project is implemented in Django, with a PostgreSQL as a DB.
 
+The complementary code for the FE is not yet uploaded to GIT. WIP.
+
+## Highlevel overview
+
+This is a basic skeleton of the project, implementing the required REST API`s for:
+
+1) Creating new teams and populating it with workers
+2) Creating roles for teams
+3) Creating and assigninig workers with requests
+4) Creating a shedule for specific month
+
+
 ## Getting Started
 
-This 
+
 
 ### Prerequisites
 
