@@ -1,4 +1,4 @@
-## The best scheduler
+## TheBestScheduler
 
 A BE code for implementing scheduler to manage shifts at work, e.g. resturants, hospitals etc...
 The project is implemented in Django, with a PostgreSQL as a DB.
